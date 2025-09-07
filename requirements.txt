@@ -1,0 +1,9 @@
+gradio>=4.44
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+xgboost
+joblib
+openpyxl
